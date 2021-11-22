@@ -17,7 +17,7 @@ export default () => {
     const classes = useStyles();
     return (
         <div className={classes.bar}>
-            <LinearProgress />
+            <LinearProgress/>
         </div>
     );
 };
